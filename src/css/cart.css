@@ -1,0 +1,25 @@
+.cart-container{  
+    border: 1px solid black;
+    margin: 20px;
+    flex-direction: row;
+    text-align: center;
+    text-align-last: center;
+}
+
+ul.cart-list{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.cart-img{
+    width: 100px;
+    height: 100px;
+}
+
+.ttl_amt {
+    float: right;
+}
+
+.no_itm {
+    align-self: center;
+}

@@ -1,0 +1,17 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html,
+app-body{
+    margin: 10;
+    padding: 0;
+    font-size: 14px;
+    font-family: -apple-system, sans-serif;
+    color: #111;
+    background-color: snow;
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+}

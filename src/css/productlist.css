@@ -1,0 +1,30 @@
+.prod-links{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    list-style-type: none;
+    height: auto;
+    
+  }
+  
+.prod-link{
+    color: #333;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .prod-link.active{
+    color: darkolivegreen;
+    font-weight: bold;
+  
+  }
+
+li{
+    margin-top: 11px;
+    align-self: left;
+  }
+  li :hover{
+    opacity: 1;
+  }
